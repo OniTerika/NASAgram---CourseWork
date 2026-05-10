@@ -1,0 +1,6 @@
+@NASAgram___CourseWork_HostAddress = http://localhost:5113
+
+GET {{NASAgram___CourseWork_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
